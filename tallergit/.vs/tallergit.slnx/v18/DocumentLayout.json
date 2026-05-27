@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\tallergit\\sistema-escolar\\tallergit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CCC4486-1140-455F-82A3-78920C81FC8E}|tallergit.csproj|c:\\tallergit\\sistema-escolar\\tallergit\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCC4486-1140-455F-82A3-78920C81FC8E}|tallergit.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CCC4486-1140-455F-82A3-78920C81FC8E}|tallergit.csproj|c:\\tallergit\\sistema-escolar\\tallergit\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8CCC4486-1140-455F-82A3-78920C81FC8E}|tallergit.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\tallergit\\sistema-escolar\\tallergit\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "frmPrincipal.cs",
+              "ToolTip": "C:\\tallergit\\sistema-escolar\\tallergit\\frmPrincipal.cs",
+              "RelativeToolTip": "frmPrincipal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:45:51.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\tallergit\\sistema-escolar\\tallergit\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "frmPrincipal.cs",
